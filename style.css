@@ -1,0 +1,14 @@
+#header{
+    width: 100vh;
+    height: 95vh;
+    background-color: rgb(255, 181, 181);
+    border: 1px solid black;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.black{
+    
+}
